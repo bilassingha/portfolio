@@ -22,7 +22,7 @@ function App() {
 
    
    useEffect(() => {
-      console.log("Updated themeMode:", themeMode);
+      // console.log("Updated themeMode:", themeMode);
       localStorage.setItem('theme', themeMode);
       const html = document.querySelector('html');
       html.classList.remove('light', 'dark');
