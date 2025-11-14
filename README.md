@@ -31,7 +31,7 @@ and a clean, modern design. Check it out:
 1. **Clone the repository:**
 
    ```bash
-      git clone https://github.com/Bilas99/portfolio.git
+      git clone https://github.com/bilassingha/portfolio.git
    ```
 
 2. **Navigate to the project directory:**
@@ -76,7 +76,7 @@ and a clean, modern design. Check it out:
 
    - Visit the [Live Preview](https://bilas99.vercel.app/)
    
-   - Check out the Code: [GitHub Repository](https://github.com/Bilas99/portfolio)
+   - Check out the Code: [GitHub Repository](https://github.com/bilassingha/portfolio)
 
 ---
 
@@ -86,6 +86,6 @@ and a clean, modern design. Check it out:
 
 ---
 
-### ❤️ **Made with Passion by** [Bilas Singha](https://github.com/Bilas99/)
+### ❤️ **Made with Passion by** [Bilas Singha](https://github.com/bilassingha/)
 
 ---
