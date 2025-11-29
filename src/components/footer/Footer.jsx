@@ -5,7 +5,7 @@ const Footer = () => {
    const socialMedia = [
       {icon: <FaFacebook />, url: "https://www.facebook.com/bilas.singha.754"},
       {icon: <FaInstagram />, url: "https://www.instagram.com/bilas_143/"},
-      {icon: <FaGithub />, url: "https://github.com/Bilas99/"},
+      {icon: <FaGithub />, url: "https://github.com/bilassingha"},
       {icon: <FaLinkedin />, url: "https://www.linkedin.com/in/bilas-singha-18967b2a8"},
    ]
    
